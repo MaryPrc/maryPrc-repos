@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlintaTest", "AlindaTest\AlintaTest.csproj", "{5AE8153D-92A0-4E48-AF6E-D13CBB57C940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlintaTestTests", "AlindaTestTests\AlintaTestTests.csproj", "{990DAD3F-7232-43EA-83F8-44DD20FE6551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE8153D-92A0-4E48-AF6E-D13CBB57C940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE8153D-92A0-4E48-AF6E-D13CBB57C940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE8153D-92A0-4E48-AF6E-D13CBB57C940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE8153D-92A0-4E48-AF6E-D13CBB57C940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990DAD3F-7232-43EA-83F8-44DD20FE6551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990DAD3F-7232-43EA-83F8-44DD20FE6551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990DAD3F-7232-43EA-83F8-44DD20FE6551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990DAD3F-7232-43EA-83F8-44DD20FE6551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
